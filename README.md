@@ -2,6 +2,8 @@
 
 Deploy a Flask ML app to Azure
 
+[![Python application test with Github Actions](https://github.com/llrocha/udacity-project-devops/actions/workflows/python-app.yml/badge.svg)](https://github.com/llrocha/udacity-project-devops/actions/workflows/python-app.yml)
+
 ## Project Plan
 
 * A link to a Trello board for the project: https://trello.com/b/eT6AUw5q/udacity-project
