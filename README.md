@@ -14,7 +14,6 @@ Deploy a Flask ML app to Azure
 * Architectural Diagram:<br>
 ![](images/architecture.png)
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
 <br>
