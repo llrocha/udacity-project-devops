@@ -49,9 +49,9 @@ Port: 443
 
 ![](images/7_Screenshot_from_2021-03-08_20-17-23.png)
 
+* Output of locust
+![](images/8_locust.png)
 
-
-> 
 
 ## Enhancements
 
